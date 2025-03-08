@@ -9,7 +9,7 @@ This project is a backend API for handling rape case data in India. It supports 
 
 ## Technologies Used
 - **Node.js** with **Express.js** (Backend API)
-- **MongoDB** (Database for storing case data)
+- **MongoDB** (Database for storing user data)
 - **Mongoose** (MongoDB Object Modeling for Node.js)
 - **bcryptjs** (Password hashing)
 - **jsonwebtoken** (JWT authentication)
